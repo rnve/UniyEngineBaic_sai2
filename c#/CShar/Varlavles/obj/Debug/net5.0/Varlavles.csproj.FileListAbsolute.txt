@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.exe
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.deps.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.runtimeconfig.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.runtimeconfig.dev.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\ref\Varlavles.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\bin\Debug\net5.0\Varlavles.pdb
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.AssemblyInfo.cs
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\ref\Varlavles.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.pdb
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Varlavles\obj\Debug\net5.0\Varlavles.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.AssemblyInfo.cs
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.exe
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.deps.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.runtimeconfig.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.runtimeconfig.dev.json
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\ref\Mefhods.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\bin\Debug\net5.0\Mefhods.pdb
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\ref\Mefhods.dll
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.pdb
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\Mefhods\obj\Debug\net5.0\Mefhods.genruntimeconfig.cache

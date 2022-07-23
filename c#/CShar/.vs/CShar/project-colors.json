@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3eb7bee9-0728-4f4c-a1df-6ba8f9c7467f": {
+      "ProjectGuid": "3eb7bee9-0728-4f4c-a1df-6ba8f9c7467f",
+      "DisplayName": "FirstProject",
+      "ColorIndex": 0
+    },
+    "42bcb146-093a-4391-b071-d94ba269fa86": {
+      "ProjectGuid": "42bcb146-093a-4391-b071-d94ba269fa86",
+      "DisplayName": "Varlavles",
+      "ColorIndex": 1
+    },
+    "5d327b80-fa99-4f0e-9b17-8517c0927fc9": {
+      "ProjectGuid": "5d327b80-fa99-4f0e-9b17-8517c0927fc9",
+      "DisplayName": "Mefhods",
+      "ColorIndex": 2
+    },
+    "8734f4a1-e8ea-462c-a8bd-c5724966c245": {
+      "ProjectGuid": "8734f4a1-e8ea-462c-a8bd-c5724966c245",
+      "DisplayName": "ClassUsagn",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

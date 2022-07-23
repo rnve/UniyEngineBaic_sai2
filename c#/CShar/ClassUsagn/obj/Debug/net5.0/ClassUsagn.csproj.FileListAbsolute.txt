@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\ClassUsagn\obj\Debug\net5.0\ClassUsagn.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\ClassUsagn\obj\Debug\net5.0\ClassUsagn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\ClassUsagn\obj\Debug\net5.0\ClassUsagn.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\ClassUsagn\obj\Debug\net5.0\ClassUsagn.AssemblyInfo.cs
+C:\Users\User\Desktop\Github\UniyEngineBaic_sai2\c#\CShar\ClassUsagn\obj\Debug\net5.0\ClassUsagn.csproj.CoreCompileInputs.cache
